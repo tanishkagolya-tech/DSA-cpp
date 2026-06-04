@@ -14,3 +14,4 @@ int main(){
     return 0;
 
 }
+//or we can also use ascii no. for uppercase 65-90
